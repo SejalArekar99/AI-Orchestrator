@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI ORCHESTRATOR
 ## Intelligent Business Workflow Automation Platform
 
@@ -91,3 +92,7 @@ npm run dev
    - **Step 4**: Click **Simulate Payment Settlement** → Watch state transition to `RESOLVED` & update audit log.
    - **Step 5**: Runs `"New employee joins next Monday."` to demonstrate cross-department onboarding.
    - **Step 6**: Runs `"Give ABC Corp a 20% discount."` to demonstrate tiered sales discount policies.
+=======
+# AI-Orchestrator
+This is our final round hackathon project
+>>>>>>> ac937732f981f83be2d728f0512e6c6f7e10b6bc
